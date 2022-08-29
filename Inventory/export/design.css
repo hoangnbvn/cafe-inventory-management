@@ -1,0 +1,12 @@
+nav {
+    overflow: hidden;
+}
+nav p {
+    color: floralwhite;/*colorpiker*/
+    padding: 15px 20px;
+    text-align: center;/*căn lề*/
+    text-decoration: none; /*không thực hiện trang trí*/
+    display: block;/*chuyển các thuộc tính thành các cột riêng biệt*/
+    float: right;/*dịch hết sang trái*/
+    margin: 5px;
+}
